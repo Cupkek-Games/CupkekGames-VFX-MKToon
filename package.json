@@ -1,0 +1,19 @@
+{
+  "name": "com.cupkekgames.vfx.mktoon",
+  "displayName": "CupkekGames VFX MKToon",
+  "version": "0.1.0",
+  "author": {
+    "name": "CupkekGames",
+    "url": "https://www.docs.cupkek.games"
+  },
+  "unity": "6000.0",
+  "documentationUrl": "https://docs.cupkek.games/",
+  "description": "MKToon shader-backend bridge for com.cupkekgames.vfx. Implements the VFX outline / dissolve / shader-property abstractions over MK.Toon shader properties.",
+  "keywords": [
+    "VFX",
+    "MKToon",
+    "Shader",
+    "CupkekGames"
+  ],
+  "dependencies": {}
+}

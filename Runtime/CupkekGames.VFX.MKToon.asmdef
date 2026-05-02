@@ -1,0 +1,19 @@
+{
+    "name": "CupkekGames.VFX.MKToon",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c33768f512cd6845b7f12462e3175df",
+        "GUID:f8431b30fb844d5e90a7e9aa9b85b7fc",
+        "GUID:b71ef49f2d068b249b45a8d04b7b3daa",
+        "GUID:80ecb87cae9c44d19824e70ea7229748"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
